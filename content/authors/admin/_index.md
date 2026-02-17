@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: GNSS Research & Development
+role: GNSS Research & Development @Trimble. Inc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -30,9 +30,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:me@jingyao-su.com'
-    label: E-mail Me
+#  - icon: at-symbol
+#    url: 'mailto:me@jingyao-su.com'
+#    label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/jingyao_su
  # - icon: brands/instagram
