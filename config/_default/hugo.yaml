@@ -6,7 +6,8 @@
 # Website name
 title: Jingyao Su | 苏靖尧 # Website name
 # Website URL
-baseURL: 'https://jingyao-su.com/'
+# baseURL: 'https://jingyao-su.com/'
+baseURL: 'https://su-jingyao.github.io'
 
 ############################
 ## LANGUAGE
