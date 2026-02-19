@@ -65,19 +65,19 @@ sections:
         count: 5
     design:
       view: citation
-  - block: markdown
-    content:
-      title: Professional Service
-      subtitle: ""
-      text: |
-        **Workshop Co-organizer**, the 1st, 2nd, and 3rd *iLoc* Workshops (*High-integrity Localization for Automated Vehicles*), held in conjunction with **IEEE IV 2022**, **ITSC 2023**, and **ITSC 2025**.
+  # - block: markdown
+  #   content:
+  #     title: Professional Service
+  #     subtitle: ""
+  #     text: |
+  #       **Workshop Co-organizer**, the 1st, 2nd, and 3rd *iLoc* Workshops (*High-integrity Localization for Automated Vehicles*), held in conjunction with **IEEE IV 2022**, **ITSC 2023**, and **ITSC 2025**.
 
-        Regularly serving as a peer reviewer for scholarly journals and conferences:
+  #       Regularly serving as a peer reviewer for scholarly journals and conferences:
 
-        * **Journals:** *IEEE Transactions on Aerospace and Electronic Systems*, *Measurement*, etc.
-        * **Conferences:** *IEEE IV*, *IEEE ITSC*, etc.
-    design:
-      columns: '1' 
+  #       * **Journals:** *IEEE Transactions on Aerospace and Electronic Systems*, *Measurement*, etc.
+  #       * **Conferences:** *IEEE IV*, *IEEE ITSC*, etc.
+  #   design:
+  #     columns: '1' 
 #  - block: collection
 #    id: talks
 #    content:
