@@ -161,7 +161,3 @@ education:
 Currently, I focus on advancing precise positioning and integrity monitoring, utilizing robust estimation to ensure navigation reliability in various environments. I am also actively exploring the potential of machine learning to enhance classical multi-sensor navigation frameworks.
 
 I always welcome opportunities for collaboration. Feel free to reach out 😃
-
----
-### Professional Service:
-Co-organizer of iLoc Workshops (IV'22, ITSC'23/25); Reviewer for IEEE TAES, Measurement, IEEE IV/ITSC, etc.
