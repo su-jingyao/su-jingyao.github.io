@@ -70,10 +70,9 @@ sections:
       title: Professional Service
       subtitle: ""
       text: |
-        * **Workshop Co-organizer**, the 1st, 2nd, and 3rd *iLoc* Workshops, held in conjunction with **IEEE IV 2022**, **ITSC 2023**, and **ITSC 2025**.
-          * Topic: *High-integrity Localization for Automated Vehicles*
+        **Workshop Co-organizer**, the 1st, 2nd, and 3rd *iLoc* Workshops (*High-integrity Localization for Automated Vehicles*), held in conjunction with **IEEE IV 2022**, **ITSC 2023**, and **ITSC 2025**.
 
-        Regularly serving as a peer reviewer for scholarly journals and conferences in the fields of navigation and geodesy:
+        Regularly serving as a peer reviewer for scholarly journals and conferences:
 
         * **Journals:** *IEEE Transactions on Aerospace and Electronic Systems*, *Measurement*, etc.
         * **Conferences:** *IEEE IV*, *IEEE ITSC*, etc.
