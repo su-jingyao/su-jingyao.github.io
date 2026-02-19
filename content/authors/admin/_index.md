@@ -74,6 +74,17 @@ education:
   - area: B.Sc Geophysics
     institution: Wuhan University
     
+# Professional Service
+#       subtitle: ""
+#       text: |
+#         **Workshop Co-organizer**, the 1st, 2nd, and 3rd *iLoc* Workshops (*High-integrity Localization for Automated Vehicles*), held in conjunction with **IEEE IV 2022**, **ITSC 2023**, and **ITSC 2025**.
+
+#         Regularly serving as a peer reviewer for scholarly journals and conferences:
+
+#         * **Journals:** *IEEE Transactions on Aerospace and Electronic Systems*, *Measurement*, etc.
+#         * **Conferences:** *IEEE IV*, *IEEE ITSC*, etc.
+#     design:
+#       columns: '1' 
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -150,3 +161,7 @@ education:
 Currently, I focus on advancing precise positioning and integrity monitoring, utilizing robust estimation to ensure navigation reliability in various environments. I am also actively exploring the potential of machine learning to enhance classical multi-sensor navigation frameworks.
 
 I always welcome opportunities for collaboration. Feel free to reach out 😃
+
+---
+###Professional Service:
+Co-organizer of iLoc Workshops (IV'22, ITSC'23/25); Reviewer for IEEE TAES, Measurement, IEEE IV/ITSC, etc.
