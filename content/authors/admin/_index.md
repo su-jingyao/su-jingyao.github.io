@@ -25,7 +25,7 @@ role: GNSS Research & Development
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Trimble Inc.
-    url: www.trimble.com
+    url: https://www.trimble.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,7 +54,6 @@ interests:
   - Uncertainty Modeling & Robust Estimation
   - Multi-sensor Fusion
   - Resilient Navigation in Challenging Environments
-  - ML-enhanced Navigation Frameworks
 
 education:
   - area: Ph.D. Geodesy and Geoinformation
