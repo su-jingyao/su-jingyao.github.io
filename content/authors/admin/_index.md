@@ -20,19 +20,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: GNSS Research & Development @Trimble. Inc
+role: GNSS Research & Development
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
-    url: 
+  - name: Trimble Inc.
+    url: www.trimble.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-#  - icon: at-symbol
-#    url: 'mailto:me@jingyao-su.com'
-#    label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:26681968+su-jingyao [at] users.noreply.github.com'
+    label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/jingyao_su
  # - icon: brands/instagram
@@ -49,12 +49,12 @@ profiles:
     link: https://www.researchgate.net/profile/Jingyao-Su-4
 
 interests:
-  - GNSS navigation
-  - precision positioning
-  - integrity monitoring methods
-  - multi-sensor fusion
-  - uncertainty modeling 
-  - interval mathematics
+  - GNSS Precision Positioning
+  - Integrity Monitoring
+  - Uncertainty Modeling & Robust Estimation
+  - Multi-sensor Fusion
+  - Resilient Navigation in Challenging Environments
+  - ML-enhanced Navigation Frameworks
 
 education:
   - area: Ph.D. Geodesy and Geoinformation
@@ -146,9 +146,8 @@ education:
 ---
 
 ## About Me
+**I specialize in GNSS navigation with a focus on Assured Position, Navigation, and Timing (Assured PNT)**. My work centers on bridging the gap between theoretical uncertainty modeling and robust, real-world navigation systems.
 
-I specialize in GNSS navigation with a focus on Assured Position Navigation & Timing (Assured PNT). 
+Currently, I focus on advancing precise positioning and integrity monitoring, utilizing robust estimation to ensure navigation reliability in various environments. I am also actively exploring the potential of machine learning to enhance classical multi-sensor navigation frameworks.
 
-My interests include precise positioning techniques, integrity monitoring methods, multi-sensor fusion, uncertainty modeling and propagation, and interval mathematics.
-
-I welcome opportunities for collaboration. Please feel free to reach out 😃
+I always welcome opportunities for collaboration. Feel free to reach out 😃
